@@ -1,0 +1,6 @@
+{
+  "name": "Speech Emotion Recognition",
+  "description": "Speech Emotion Recognition system using DSP feature extraction (MFCCs, Spectral, Pitch, Energy), Deep Learning architectures (CNN, LSTM, CRNN), and benchmarks on RAVDESS, TESS, and EMO-DB datasets.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
